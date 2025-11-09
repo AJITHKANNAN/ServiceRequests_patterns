@@ -1,0 +1,1551 @@
+CLOSEDATE,RESOLVEDTIME,PLATFORM,PRODUCT,SRNUMBER,SINUMBER,SRCREATIONTIME,SRSTATUS,SRSUMMARY,SUBSUBTYPE,X_RESOLUTION_COMMENT,CUSTOMER_NAME,CUSTOMER_SEGMENT,HANDOVER_MUX_AND_PORT_DETAILS,AUTOMATION_RCA_CONCLUSION_TEXT,Duration_hours,combined_text,clean_text,cluster,Month,Resolution_Hours,SLA_Breached,kmeans_cluster,dbscan_cluster
+2025-06-27 19:00:00,2025-06-27 20:00:00,Fiber GPON,Internet Leased Line,38094247,10506597,2025-06-27 10:00:00,In Progress,,Link Failure,"High latency observed due to congestion, optimized routing applied.",BCCI BANK,CORP,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",9.0,"High latency observed due to congestion, optimized routing applied. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",high latency observed due to congestion optimized routing applied automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,1,2025-06,10.0,False,0,0
+2025-06-30 21:00:00,2025-06-28 12:00:00,Ethernet,Internet Leased Line,38094248,10506598,2025-06-27 10:00:00,Closed,,POE Failure,"POE module replaced, device stable.",FDHCBANK,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",83.0,"POE module replaced, device stable. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",poe module replaced device stable automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,0,2025-06,26.0,False,2,0
+2025-06-28 21:00:00,2025-06-29 03:00:00,Ethernet,Broadband,38094249,10506599,2025-06-27 09:00:00,In Progress,,Link Failure,"POE module replaced, device stable.",FDHCBANK,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",36.0,"POE module replaced, device stable. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",poe module replaced device stable automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,0,2025-06,42.0,True,2,0
+2025-06-30 10:00:00,2025-06-28 15:00:00,RF P2MP,Internet Leased Line,38094250,10506600,2025-06-27 10:00:00,In Progress,,High Latency,"Replaced faulty card, link restored.",FDHCBANK,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",72.0,"Replaced faulty card, link restored. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",replaced faulty card link restored automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,5,2025-06,29.0,False,1,0
+2025-06-27 09:00:00,2025-06-28 02:00:00,Fiber GPON,Internet Leased Line,38094251,10506601,2025-06-27 10:00:00,Resolved,,Packet Drops,"POE module replaced, device stable.",FDHCBANK,CORP,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",-1.0,"POE module replaced, device stable. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",poe module replaced device stable automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,0,2025-06,16.0,False,2,0
+2025-06-29 17:00:00,2025-06-28 06:00:00,RF P2MP,MPLS,38094252,10506602,2025-06-27 12:00:00,Resolved,,Port Hung,"Replaced faulty card, link restored.",SISINFO LTD,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",53.0,"Replaced faulty card, link restored. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",replaced faulty card link restored automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,5,2025-06,18.0,False,1,0
+2025-06-28 04:00:00,2025-06-28 01:00:00,Ethernet,MPLS,38094253,10506603,2025-06-27 09:00:00,Closed,,Port Hung,"POE module replaced, device stable.",FDHCBANK,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",19.0,"POE module replaced, device stable. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",poe module replaced device stable automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,0,2025-06,16.0,False,2,0
+2025-06-28 13:00:00,2025-06-29 04:00:00,RF P2MP,Broadband,38094254,10506604,2025-06-27 10:00:00,Closed,,Link Failure,"Replaced faulty card, link restored.",BCCI BANK,CORP,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",27.0,"Replaced faulty card, link restored. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",replaced faulty card link restored automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,5,2025-06,42.0,True,1,0
+2025-06-28 15:00:00,2025-06-28 13:00:00,Ethernet,Broadband,38094255,10506605,2025-06-27 11:00:00,Resolved,,Packet Drops,"Replaced faulty card, link restored.",THE SOUTH INDIAN BANK LIMITED,CORP,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",28.0,"Replaced faulty card, link restored. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",replaced faulty card link restored automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,5,2025-06,26.0,False,1,0
+2025-06-30 06:00:00,2025-06-27 13:00:00,RF P2MP,Broadband,38094256,10506606,2025-06-27 09:00:00,Closed,,Link Failure,Issue resolved after resetting the port.,BCCI BANK,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",69.0,"Issue resolved after resetting the port. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",issue resolved after resetting the port automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,2,2025-06,4.0,False,4,0
+2025-06-29 08:00:00,2025-06-28 09:00:00,RF P2MP,Broadband,38094257,10506607,2025-06-27 13:00:00,In Progress,,High Latency,"POE module replaced, device stable.",FDHCBANK,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",43.0,"POE module replaced, device stable. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",poe module replaced device stable automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,0,2025-06,20.0,False,2,0
+2025-06-27 19:00:00,2025-06-28 08:00:00,Fiber GPON,Broadband,38094258,10506608,2025-06-27 11:00:00,Closed,,Link Failure,"Dear Customer, Link was reported down, post verifying no alarms observed.",THE SOUTH INDIAN BANK LIMITED,CORP,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",8.0,"Dear Customer, Link was reported down, post verifying no alarms observed. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",dear customer link was reported down post verifying no alarms observed automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,3,2025-06,21.0,False,3,0
+2025-06-30 01:00:00,2025-06-29 06:00:00,Fiber GPON,MPLS,38094259,10506609,2025-06-27 09:00:00,Resolved,,POE Failure,"POE module replaced, device stable.",THE SOUTH INDIAN BANK LIMITED,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",64.0,"POE module replaced, device stable. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",poe module replaced device stable automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,0,2025-06,45.0,True,2,0
+2025-06-28 07:00:00,2025-06-28 21:00:00,RF P2MP,Internet Leased Line,38094260,10506610,2025-06-27 13:00:00,Closed,,Link Failure,"Dear Customer, Link was reported down, post verifying no alarms observed.",BCCI BANK,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",18.0,"Dear Customer, Link was reported down, post verifying no alarms observed. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",dear customer link was reported down post verifying no alarms observed automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,3,2025-06,32.0,False,3,0
+2025-06-27 11:00:00,2025-06-29 05:00:00,RF P2MP,MPLS,38094261,10506611,2025-06-27 12:00:00,Resolved,,Packet Drops,"Dear Customer, Link was reported down, post verifying no alarms observed.",FDHCBANK,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",-1.0,"Dear Customer, Link was reported down, post verifying no alarms observed. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",dear customer link was reported down post verifying no alarms observed automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,3,2025-06,41.0,True,3,0
+2025-06-27 20:00:00,2025-06-28 05:00:00,RF P2MP,MPLS,38094262,10506612,2025-06-27 11:00:00,Resolved,,POE Failure,"Replaced faulty card, link restored.",SISINFO LTD,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",9.0,"Replaced faulty card, link restored. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",replaced faulty card link restored automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,5,2025-06,18.0,False,1,0
+2025-06-30 21:00:00,2025-06-27 16:00:00,Fiber GPON,MPLS,38094263,10506613,2025-06-27 10:00:00,Closed,,Link Failure,"High latency observed due to congestion, optimized routing applied.",FDHCBANK,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",83.0,"High latency observed due to congestion, optimized routing applied. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",high latency observed due to congestion optimized routing applied automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,1,2025-06,6.0,False,0,0
+2025-06-28 08:00:00,2025-06-28 23:00:00,RF P2MP,Broadband,38094264,10506614,2025-06-27 09:00:00,In Progress,,High Latency,"Replaced faulty card, link restored.",TCC LTD,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",23.0,"Replaced faulty card, link restored. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",replaced faulty card link restored automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,5,2025-06,38.0,True,1,0
+2025-06-27 15:00:00,2025-06-27 10:00:00,RF P2MP,Internet Leased Line,38094265,10506615,2025-06-27 09:00:00,Closed,,Port Hung,"High latency observed due to congestion, optimized routing applied.",BCCI BANK,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",6.0,"High latency observed due to congestion, optimized routing applied. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",high latency observed due to congestion optimized routing applied automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,1,2025-06,1.0,False,0,0
+2025-06-30 00:00:00,2025-06-28 10:00:00,Ethernet,Broadband,38094266,10506616,2025-06-27 12:00:00,Closed,,Packet Drops,Issue resolved after resetting the port.,TCC LTD,CORP,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",60.0,"Issue resolved after resetting the port. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",issue resolved after resetting the port automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,2,2025-06,22.0,False,4,0
+2025-06-28 21:00:00,2025-06-28 01:00:00,Ethernet,MPLS,38094267,10506617,2025-06-27 08:00:00,Closed,,Link Failure,Issue resolved after resetting the port.,BCCI BANK,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",37.0,"Issue resolved after resetting the port. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",issue resolved after resetting the port automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,2,2025-06,17.0,False,4,0
+2025-06-27 20:00:00,2025-06-27 19:00:00,Fiber GPON,Internet Leased Line,38094268,10506618,2025-06-27 10:00:00,Closed,,POE Failure,"POE module replaced, device stable.",FDHCBANK,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",10.0,"POE module replaced, device stable. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",poe module replaced device stable automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,0,2025-06,9.0,False,2,0
+2025-06-30 01:00:00,2025-06-29 06:00:00,RF P2MP,Broadband,38094269,10506619,2025-06-27 08:00:00,Closed,,Packet Drops,"POE module replaced, device stable.",THE SOUTH INDIAN BANK LIMITED,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",65.0,"POE module replaced, device stable. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",poe module replaced device stable automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,0,2025-06,46.0,True,2,0
+2025-06-28 13:00:00,2025-06-29 01:00:00,Ethernet,Broadband,38094270,10506620,2025-06-27 10:00:00,Closed,,Link Failure,"Dear Customer, Link was reported down, post verifying no alarms observed.",BCCI BANK,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",27.0,"Dear Customer, Link was reported down, post verifying no alarms observed. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",dear customer link was reported down post verifying no alarms observed automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,3,2025-06,39.0,True,3,0
+2025-06-30 04:00:00,2025-06-29 01:00:00,RF P2MP,Broadband,38094271,10506621,2025-06-27 12:00:00,Closed,,POE Failure,Issue resolved after resetting the port.,SISINFO LTD,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",64.0,"Issue resolved after resetting the port. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",issue resolved after resetting the port automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,2,2025-06,37.0,True,4,0
+2025-06-30 04:00:00,2025-06-28 02:00:00,Fiber GPON,MPLS,38094272,10506622,2025-06-27 11:00:00,Resolved,,Link Failure,Issue resolved after resetting the port.,TCC LTD,CORP,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",65.0,"Issue resolved after resetting the port. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",issue resolved after resetting the port automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,2,2025-06,15.0,False,4,0
+2025-06-29 06:00:00,2025-06-28 11:00:00,RF P2MP,MPLS,38094273,10506623,2025-06-27 12:00:00,In Progress,,Link Failure,Issue resolved after resetting the port.,THE SOUTH INDIAN BANK LIMITED,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",42.0,"Issue resolved after resetting the port. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",issue resolved after resetting the port automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,2,2025-06,23.0,False,4,0
+2025-06-29 21:00:00,2025-06-29 07:00:00,Ethernet,MPLS,38094274,10506624,2025-06-27 10:00:00,In Progress,,Port Hung,"POE module replaced, device stable.",THE SOUTH INDIAN BANK LIMITED,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",59.0,"POE module replaced, device stable. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",poe module replaced device stable automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,0,2025-06,45.0,True,2,0
+2025-06-27 16:00:00,2025-06-28 07:00:00,Fiber GPON,Broadband,38094275,10506625,2025-06-27 10:00:00,In Progress,,Packet Drops,"Dear Customer, Link was reported down, post verifying no alarms observed.",THE SOUTH INDIAN BANK LIMITED,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",6.0,"Dear Customer, Link was reported down, post verifying no alarms observed. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",dear customer link was reported down post verifying no alarms observed automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,3,2025-06,21.0,False,3,0
+2025-06-28 20:00:00,2025-06-27 23:00:00,Ethernet,Internet Leased Line,38094276,10506626,2025-06-27 12:00:00,In Progress,,High Latency,"High latency observed due to congestion, optimized routing applied.",TCC LTD,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",32.0,"High latency observed due to congestion, optimized routing applied. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",high latency observed due to congestion optimized routing applied automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,1,2025-06,11.0,False,0,0
+2025-06-30 11:00:00,2025-06-29 03:00:00,Ethernet,Internet Leased Line,38094277,10506627,2025-06-27 11:00:00,Resolved,,High Latency,"Dear Customer, Link was reported down, post verifying no alarms observed.",BCCI BANK,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",72.0,"Dear Customer, Link was reported down, post verifying no alarms observed. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",dear customer link was reported down post verifying no alarms observed automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,3,2025-06,40.0,True,3,0
+2025-06-29 15:00:00,2025-06-28 16:00:00,Fiber GPON,MPLS,38094278,10506628,2025-06-27 12:00:00,In Progress,,Link Failure,"Dear Customer, Link was reported down, post verifying no alarms observed.",SISINFO LTD,CORP,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",51.0,"Dear Customer, Link was reported down, post verifying no alarms observed. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",dear customer link was reported down post verifying no alarms observed automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,3,2025-06,28.0,False,3,0
+2025-06-28 05:00:00,2025-06-29 04:00:00,RF P2MP,Internet Leased Line,38094279,10506629,2025-06-27 13:00:00,In Progress,,Packet Drops,"High latency observed due to congestion, optimized routing applied.",THE SOUTH INDIAN BANK LIMITED,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",16.0,"High latency observed due to congestion, optimized routing applied. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",high latency observed due to congestion optimized routing applied automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,1,2025-06,39.0,True,0,0
+2025-06-30 22:00:00,2025-06-29 04:00:00,Ethernet,MPLS,38094280,10506630,2025-06-27 11:00:00,Resolved,,Link Failure,"Replaced faulty card, link restored.",THE SOUTH INDIAN BANK LIMITED,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",83.0,"Replaced faulty card, link restored. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",replaced faulty card link restored automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,4,2025-06,41.0,True,1,0
+2025-06-27 14:00:00,2025-06-29 03:00:00,Ethernet,MPLS,38094281,10506631,2025-06-27 11:00:00,Closed,,Port Hung,"Replaced faulty card, link restored.",TCC LTD,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",3.0,"Replaced faulty card, link restored. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",replaced faulty card link restored automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,4,2025-06,40.0,True,1,0
+2025-06-29 11:00:00,2025-06-29 02:00:00,Ethernet,MPLS,38094282,10506632,2025-06-27 10:00:00,Resolved,,Port Hung,"Replaced faulty card, link restored.",FDHCBANK,CORP,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",49.0,"Replaced faulty card, link restored. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",replaced faulty card link restored automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,4,2025-06,40.0,True,1,0
+2025-06-29 15:00:00,2025-06-29 09:00:00,Ethernet,MPLS,38094283,10506633,2025-06-27 12:00:00,Resolved,,Link Failure,"Replaced faulty card, link restored.",FDHCBANK,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",51.0,"Replaced faulty card, link restored. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",replaced faulty card link restored automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,4,2025-06,45.0,True,1,0
+2025-06-30 16:00:00,2025-06-27 10:00:00,Fiber GPON,MPLS,38094284,10506634,2025-06-27 09:00:00,In Progress,,Port Hung,"POE module replaced, device stable.",BCCI BANK,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",79.0,"POE module replaced, device stable. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",poe module replaced device stable automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,0,2025-06,1.0,False,2,0
+2025-06-30 09:00:00,2025-06-28 03:00:00,RF P2MP,MPLS,38094285,10506635,2025-06-27 11:00:00,Closed,,Port Hung,"High latency observed due to congestion, optimized routing applied.",FDHCBANK,CORP,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",70.0,"High latency observed due to congestion, optimized routing applied. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",high latency observed due to congestion optimized routing applied automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,1,2025-06,16.0,False,0,0
+2025-06-28 14:00:00,2025-06-28 06:00:00,RF P2MP,Internet Leased Line,38094286,10506636,2025-06-27 10:00:00,Closed,,High Latency,"High latency observed due to congestion, optimized routing applied.",BCCI BANK,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",28.0,"High latency observed due to congestion, optimized routing applied. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",high latency observed due to congestion optimized routing applied automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,1,2025-06,20.0,False,0,0
+2025-06-28 12:00:00,2025-06-27 09:00:00,Ethernet,MPLS,38094287,10506637,2025-06-27 13:00:00,In Progress,,High Latency,Issue resolved after resetting the port.,FDHCBANK,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",23.0,"Issue resolved after resetting the port. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",issue resolved after resetting the port automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,2,2025-06,-4.0,False,4,0
+2025-06-28 21:00:00,2025-06-28 18:00:00,Ethernet,Internet Leased Line,38094288,10506638,2025-06-27 10:00:00,In Progress,,Packet Drops,"POE module replaced, device stable.",TCC LTD,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",35.0,"POE module replaced, device stable. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",poe module replaced device stable automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,0,2025-06,32.0,False,2,0
+2025-06-30 08:00:00,2025-06-28 06:00:00,RF P2MP,Internet Leased Line,38094289,10506639,2025-06-27 12:00:00,In Progress,,High Latency,"High latency observed due to congestion, optimized routing applied.",SISINFO LTD,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",68.0,"High latency observed due to congestion, optimized routing applied. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",high latency observed due to congestion optimized routing applied automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,1,2025-06,18.0,False,0,0
+2025-06-27 01:00:00,2025-06-29 07:00:00,Ethernet,Broadband,38094290,10506640,2025-06-27 12:00:00,In Progress,,Port Hung,"Dear Customer, Link was reported down, post verifying no alarms observed.",TCC LTD,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",-11.0,"Dear Customer, Link was reported down, post verifying no alarms observed. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",dear customer link was reported down post verifying no alarms observed automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,3,2025-06,43.0,True,3,0
+2025-06-27 21:00:00,2025-06-28 22:00:00,Fiber GPON,Broadband,38094291,10506641,2025-06-27 09:00:00,Resolved,,High Latency,"Replaced faulty card, link restored.",SISINFO LTD,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",12.0,"Replaced faulty card, link restored. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",replaced faulty card link restored automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,4,2025-06,37.0,True,1,0
+2025-06-29 09:00:00,2025-06-27 09:00:00,RF P2MP,Broadband,38094292,10506642,2025-06-27 13:00:00,Closed,,High Latency,"Dear Customer, Link was reported down, post verifying no alarms observed.",THE SOUTH INDIAN BANK LIMITED,CORP,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",44.0,"Dear Customer, Link was reported down, post verifying no alarms observed. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",dear customer link was reported down post verifying no alarms observed automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,3,2025-06,-4.0,False,3,0
+2025-06-27 01:00:00,2025-06-28 20:00:00,Ethernet,MPLS,38094293,10506643,2025-06-27 11:00:00,Resolved,,Port Hung,"Replaced faulty card, link restored.",BCCI BANK,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",-10.0,"Replaced faulty card, link restored. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",replaced faulty card link restored automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,4,2025-06,33.0,False,1,0
+2025-06-30 00:00:00,2025-06-28 18:00:00,RF P2MP,MPLS,38094294,10506644,2025-06-27 10:00:00,Resolved,,Packet Drops,"POE module replaced, device stable.",THE SOUTH INDIAN BANK LIMITED,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",62.0,"POE module replaced, device stable. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",poe module replaced device stable automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,0,2025-06,32.0,False,2,0
+2025-06-30 18:00:00,2025-06-28 20:00:00,Fiber GPON,Internet Leased Line,38094295,10506645,2025-06-27 13:00:00,Closed,,Link Failure,Issue resolved after resetting the port.,THE SOUTH INDIAN BANK LIMITED,EGB,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",77.0,"Issue resolved after resetting the port. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",issue resolved after resetting the port automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,2,2025-06,31.0,False,4,0
+2025-06-28 05:00:00,2025-06-27 19:00:00,Ethernet,Broadband,38094296,10506646,2025-06-27 08:00:00,Resolved,,Port Hung,"High latency observed due to congestion, optimized routing applied.",FDHCBANK,SME,"Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+","Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed",21.0,"High latency observed due to congestion, optimized routing applied. Automation Observation
+
+WAN IP ping status : OK
+BGP Uptime : -
+BTS Uptime : 11930 hours, 27 minutes, 52 seconds
+CPE Uptime : 140 hours, 30 minutes, 41 seconds
+Session Uptime : 0005:20:21:06
+Field visit : No 
+
+Expected Outcome : Link is Up and no Packet drops and latency observed Handover Port Details
+ 
+ PTN: 
+ Host Name : MTP_BCLTN_BLD_P_E83769 
+ Port Name : TS1-1 
+ Location Code : MTP/BLD/008 
+",high latency observed due to congestion optimized routing applied automation observation wan ip ping status ok bgp uptime bts uptime 11930 hours 27 minutes 52 seconds cpe uptime 140 hours 30 minutes 41 seconds session uptime 0005 20 21 06 field visit no expected outcome link is up and no packet drops and latency observed handover port details ptn host name mtp bcltn bld p e83769 port name ts1 1 location code mtp bld 008,1,2025-06,11.0,False,0,0
